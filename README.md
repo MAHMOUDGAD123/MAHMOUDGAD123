@@ -52,6 +52,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MAHMOUDGAD123/MAHMOUDGAD123/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/MAHMOUDGAD123/output/snake.svg" alt="Snake animation" />
 
 ###
