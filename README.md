@@ -6,7 +6,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
   <img width="27" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript logo"  />
@@ -34,8 +34,6 @@
   <img src="https://skillicons.dev/icons?i=vercel" height="45" alt="vercel logo"  />
   <img width="27" />
   <img src="https://skillicons.dev/icons?i=postman" height="45" alt="postman logo"  />
-  <img width="27" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="45" alt="powershell logo"  />
   <img width="27" />
   <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo"  />
   <img width="27" />
