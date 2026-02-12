@@ -50,8 +50,8 @@
   <img src="https://skillicons.dev/icons?i=figma" height="45" alt="figma logo"  />
 </div>
 
-###
+<!-- ###
 
 <img src="https://raw.githubusercontent.com/MAHMOUDGAD123/output/snake.svg" alt="Snake animation" />
 
-###
+### -->
