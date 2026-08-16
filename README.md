@@ -1,4 +1,4 @@
-<h2 align="left">Hello 👋  My name is Mahmoud Gad - I'm a software engineer</h2>
+<h2 align="left">Hello 👋  My name is Mahmoud Ismail - I'm a software engineer</h2>
 
 ###
 
